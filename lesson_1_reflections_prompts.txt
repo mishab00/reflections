@@ -33,6 +33,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
     Fill in your answer here
 How can i see the difference or history
 
-Now that you have your workspace set up, what do you want to try using Git for?
-
-Yes i did
+C:/Program Files (x86)/Notepad++/notepad++.exe
+C:/Program Files (x86)/Sublime Text 2/sublime_text.exe
