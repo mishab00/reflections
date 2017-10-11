@@ -8,3 +8,7 @@ when you want to work simultaniusly on 2 tasks
 
 How do the diagrams help you visualize the branch structure?
 git log --graph --oneline # optional to add wanted branches example master etc
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+first use git branch to see all branches than use git merge master coins for example to merge between them 
