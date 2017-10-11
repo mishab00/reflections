@@ -5,3 +5,6 @@ check with diff against --stage
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when you want to work simultaniusly on 2 tasks
+
+How do the diagrams help you visualize the branch structure?
+git log --graph --oneline # optional to add wanted branches example master etc
