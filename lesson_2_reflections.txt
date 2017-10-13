@@ -5,3 +5,7 @@ its created .git file its need for version control
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 its allow us to store multiple files and then commit at once
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+we can edit or see ambiguis changes and change them manually with automatic it will perform automatiaclly
