@@ -14,3 +14,7 @@ branch on local modify existed
 clone from github or local just copy all repositories
 
 fork same as clone but only at github and also we have link back to origin 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+it will create fast forward merge
