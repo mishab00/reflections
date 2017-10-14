@@ -1,3 +1,4 @@
+﻿
 this will be my second file
 How can you use the staging area to make sure you have one commit per logical change?
 check with diff against --stage
@@ -12,3 +13,16 @@ git log --graph --oneline # optional to add wanted branches example master etc
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 first use git branch to see all branches than use git merge master coins for example to merge between them 
+
+What happens when you initialize a repository? Why do you need to do it?
+
+its created .git file its need for version control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+its allow us to store multiple files and then commit at once
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+we can edit or see ambiguis changes and change them manually with automatic it will perform automatiaclly
+
